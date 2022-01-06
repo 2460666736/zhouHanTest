@@ -1,24 +1,14 @@
-# zh-project
+<!--
+ * @Version: 2.0
+ * @Autor: Zhou Han
+ * @Date: 2022-01-05 19:59:10
+ * @LastEditors: Zhou Han
+ * @LastEditTime: 2022-01-06 11:27:01
+ * @Description: file content
+-->
+# @zhouhantest/zh-input
 
 ## Project setup
 ```
-yarn install
+yarn install @zhouhantest/zh-input
 ```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

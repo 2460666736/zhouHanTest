@@ -1,17 +1,24 @@
+<!--
+ * @Version: 2.0
+ * @Autor: Zhou Han
+ * @Date: 2022-01-05 19:59:01
+ * @LastEditors: Zhou Han
+ * @LastEditTime: 2022-01-05 20:06:58
+ * @Description: file content
+-->
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <zh-input />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import ZhInput from './components/ZhInput.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    ZhInput
   }
 }
 </script>
